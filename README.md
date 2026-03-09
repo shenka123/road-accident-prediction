@@ -26,11 +26,10 @@ The dataset is provided by Kaggle (Playground Series S5E10). It includes `train.
 ## Project Structure
 
 This repository content is as follows:
-- `Road Accident Prediction Models (codes).ipynb`: main jupyter notebook   # Main Jupyter Notebook
+- `Road Accident Prediction Models (codes).ipynb`: main jupyter notebook 
 - `Road Accident Prediction Models.pdf`: experiment methodology and results
 - `pickle/`: saved pre-trained results and model checkpoints                    
 - `submissions/`: Kaggle submission, i.e. model prediction of `test.csv`
----
 
 ## Methodology
 
